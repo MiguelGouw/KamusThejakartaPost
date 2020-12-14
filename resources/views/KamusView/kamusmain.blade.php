@@ -1,0 +1,1 @@
+@extends('KamusView.layout.frontend')

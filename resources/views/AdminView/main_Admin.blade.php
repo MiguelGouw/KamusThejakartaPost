@@ -1,0 +1,1 @@
+@extends('AdminView.layout.admin_frontend')
